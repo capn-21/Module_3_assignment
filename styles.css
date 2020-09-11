@@ -33,7 +33,8 @@ h1 {
   .bsg{ background: rgb(231, 231, 231);
     
   }
-  .bs{ background: rgb(38, 105, 230);
+  .bs{ 
+    text-align: center;
    
   }
   .bor{ background: rgb(255, 255, 255);
